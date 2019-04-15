@@ -1,4 +1,4 @@
-<script>
+
 $(function(){
   // The base speed per character
 	time_setting = 30;
@@ -49,4 +49,4 @@ function type(input, target, current, time, random){
 }
 
 
-</script>
+
